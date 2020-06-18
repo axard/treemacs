@@ -10,8 +10,10 @@
 
 (defconst valid-doc-words
   (append checkdoc-ispell-lisp-words
-          '("arg"
+          '("api"
+            "arg"
             "args"
+            "async"
             "boolean"
             "bool"
             "btn"
